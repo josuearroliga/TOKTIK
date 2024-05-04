@@ -10,6 +10,7 @@
 .svn/
 migrate_working_dir/
 assets/
+/Users/joshua/development/Flutter Cero a Experto/TokTik/toktik/assets
 
 # IntelliJ related
 *.iml
